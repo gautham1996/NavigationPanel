@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">FINALNAVI</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="tripdot">&#xf142;</string>
+    <string name="Prof">&#xf007;</string>
+    <string name="koffee">&#xf0f4;</string>
+    <string name="settings">&#xf185;</string>
+    <string name="coupons">&#xf0c4;</string>
+    <string name="jobs">&#xf0f2;</string>
+    <string name="tutorials">&#xf040;</string>
+    <string name="newjobs">&#xf0f2;;</string>
+    <string name="action_settings">Settings</string>
+</resources>
